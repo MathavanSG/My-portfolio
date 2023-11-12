@@ -28,7 +28,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.image(image, width=150)
+st.image(image, width=500)
 
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
