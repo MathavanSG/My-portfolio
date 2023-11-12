@@ -2,6 +2,10 @@ import streamlit as st
 from PIL import Image
 import feedparser
 import requests
+import subprocess
+
+subprocess.run(["pip", "freeze"])
+
 
 
 import streamlit as st

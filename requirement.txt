@@ -1,0 +1,8 @@
+pandas
+streamlit
+feedparser
+python-dotenv
+requests
+python
+
+
