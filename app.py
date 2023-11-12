@@ -23,10 +23,7 @@ st.write('''
 st.markdown('<p style="text-align:center;"><a href="https://drive.google.com/file/d/1lzu71jfUWl5_R9hMvo9s3OambJhydMgQ/view?usp=drive_link" download="Mathavan_Resume.pdf">Download Resume</a>', unsafe_allow_html=True)
 
 image = Image.open('16059.jpg')
-st.markdown(
-    f'<div style="text-align:center;"><img src=image alt="Image" width="150"></div>',
-    unsafe_allow_html=True
-)
+
 
 st.image(image, width=150)
 
