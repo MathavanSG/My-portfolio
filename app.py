@@ -24,7 +24,7 @@ st.markdown('<p style="text-align:center;"><a href="https://drive.google.com/fil
 
 image = Image.open('16059.jpg')
 
-st.image(image, width=200)
+st.image(image, width=150)
 
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
