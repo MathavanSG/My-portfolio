@@ -1,8 +1,8 @@
 pandas
-streamlit==1.9.0
-feedparser==6.0.2
+streamlit
+feedparser
 python-dotenv
 requests
-python=3.9
+python
 
 
